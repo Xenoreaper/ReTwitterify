@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "ReTwitterify",
+    "version": "1.1.0",
+    "description": "Turns X back to Twitter.",
+    "author": "Xenoreaper",
+    "icons": {
+        "48": "icons/ReTwitterify.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.twitter.com/*"
+            ],
+            "js": [
+                "retwitterify.js"
+            ]
+        }
+    ]
+}
