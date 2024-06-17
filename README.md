@@ -39,3 +39,6 @@ Thought I fixed it.
 
 #### Version 1.1.0
 Actually fixed the extension and made it replace site title and favicon as well.
+
+#### Version 1.1.1
+Adjusted for X/Twitter now actually using the new x.com domain.
