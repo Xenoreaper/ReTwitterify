@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "ReTwitterify",
-    "version": "1.2",
+    "version": "1.2.0",
     "description": "Turns X back to Twitter.",
     "author": "Xenoreaper",
     "icons": {
