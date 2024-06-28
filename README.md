@@ -42,3 +42,8 @@ Actually fixed the extension and made it replace site title and favicon as well.
 
 #### Version 1.1.1
 Adjusted for X/Twitter now actually using the new x.com domain.
+
+#### Version 1.2.0
+- Now checks before replacing
+- Replaces logo on login page
+- Checks every 100ms instead of 1000ms
