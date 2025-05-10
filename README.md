@@ -1,4 +1,9 @@
 # ReTwitterify
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXenoreaper%2FReTwitterify&label=Repository%20Visits&countColor=%230c7ebe&style=flat&labelStyle=none)
+![GitHub License](https://img.shields.io/github/license/Xenoreaper/ReTwitterify)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7E1A?style=flat&logo=firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/retwitterify/)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFB00?style=flat&logo=javascript&logoColor=black)
+
 An extension for browsers like Firefox, Chrome and Opera that changes X back to Twitter.
 
 ## About ReTwitterify
